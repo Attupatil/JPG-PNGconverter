@@ -1,4 +1,4 @@
-# JPG to PNG converter     - BY Atharva Ashok Patil
+# 📷💻JPG to PNG converter     - BY Atharva Ashok Patil
 #### This python3 program converts Directory containing JPG images into PNG images
 #  dash your terminal and open the converter using  
 
